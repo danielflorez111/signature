@@ -1,4 +1,4 @@
-const fullName = prompt("Name: ");
+const fullName = prompt("Full name: ");
 document.getElementById("fullName").innerHTML = fullName;
 
 const position = prompt("Position: ");
